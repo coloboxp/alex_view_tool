@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+> Render HTML with copyright information
+```ruby
+AlexViewTool::Renderer.copyright "Name", "Message"
+```
 
 ## Development
 

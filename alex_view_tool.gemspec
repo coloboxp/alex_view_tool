@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This is a test gem to use it on DevCamp tutorial from Jordan H.}
   spec.description   = %q{Provides generated HTML data for Rails applications}
-  spec.homepage      = "www.github.com"
+  spec.homepage      = "http://www.github.com"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
